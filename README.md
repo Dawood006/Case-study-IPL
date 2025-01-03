@@ -1,5 +1,5 @@
 
-# IPL Data Chronicles 🏏
+# IPL Data Case Study🏏
 
 ## Overview
 **IPL Data Chronicles** is a comprehensive case study analyzing Indian Premier League (IPL) statistics. This project dives deep into the nuances of IPL matches, providing insights on:
