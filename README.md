@@ -45,7 +45,7 @@ To replicate this project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Dawood006/ipl-data-chronicles.git
+   git clone https://github.com/Dawood006/ipl-data-Case-Study.git
    ```
 2. Navigate to the project directory:
    ```bash
